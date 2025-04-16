@@ -33,6 +33,18 @@ A console-based train reservation system developed in Java using core Object-Ori
 
 ## 📂 Project Structure
 
-TrainBookingApp/ │ ├── Main.java # Entry point ├── Train.java # Train details and operations ├── Passenger.java # Passenger data class ├── TicketManager.java # Booking, canceling, and seat management logic └── Utils.java 
+TrainBookingApp
+│
+├── Main.java                            
+├── Passenger.java                    
+└── TicketBooking.java 
 
+## 🧪 How to Run
+
+javac Main.java
+java Main
+
+## ✅ Conclusion
+
+This Train Booking Application is a hands-on Java project that demonstrates the power of Object-Oriented Programming (OOP) principles in solving real-world problems. It provides a clean and modular approach to booking and managing train reservations via the console. With well-structured classes and a simple interface, it’s ideal for beginners learning Java OOP or developers looking to build a foundational railway reservation system. The project can be enhanced further by integrating a graphical user interface (GUI), persistent storage (database), or converting it into a full-stack web application.
 
