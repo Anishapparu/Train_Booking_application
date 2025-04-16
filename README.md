@@ -35,7 +35,6 @@ A console-based train reservation system developed in Java using core Object-Ori
 
 TrainBookingApp
 
-│
 ├── Main.java                            
 ├── Passenger.java                    
 └── TicketBooking.java 
